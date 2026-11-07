@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1-draft",
+  "description": "FICTIONAL demo listings; none offered for sale; rights not verified",
+  "items": [
+    {
+      "id": "AJ-DEMO-001",
+      "title": "Abandoned Habit Tracker Prototype",
+      "category": "productivity",
+      "platform": "web",
+      "languages": ["TypeScript"],
+      "grade": "B",
+      "condition_label": "Mechanic's Special",
+      "demo_price_usd": 12,
+      "build_status": "untested-demo",
+      "known_issues": ["Persistence layer missing"],
+      "license": "unverified",
+      "rights_verified": false,
+      "is_demo": true,
+      "published": false
+    },
+    {
+      "id": "AJ-DEMO-002",
+      "title": "Dashboard Chart Widgets",
+      "category": "components",
+      "platform": "web",
+      "languages": ["JavaScript"],
+      "grade": "C",
+      "condition_label": "Parts Only",
+      "demo_price_usd": 6,
+      "build_status": "untested-demo",
+      "known_issues": ["Requires host app integration"],
+      "license": "unverified",
+      "rights_verified": false,
+      "is_demo": true,
+      "published": false
+    }
+  ]
+}
